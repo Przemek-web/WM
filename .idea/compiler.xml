@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="WM" options="-endorseddirs $PROJECT_DIR$/target/endorsed" />
+      <module name="WM" options="-endorseddirs C:\Users\gorni\Desktop\Projekt\WM\target/endorsed" />
     </option>
   </component>
 </project>
